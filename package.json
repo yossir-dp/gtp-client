@@ -11,7 +11,7 @@
     "@nuxtjs/tailwindcss": "^6.4.1",
     "@tailwindcss/typography": "^0.5.9",
     "nuxt": "^3.2.3",
-    "nuxt-icon": "^0.3.2"
+    "nuxt-icon": "^0.3.3"
   },
   "dependencies": {
     "@microsoft/fetch-event-source": "^2.0.1",
